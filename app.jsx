@@ -4003,4 +4003,4 @@ function GuidelineDetail({ g, site, starred, onStar, onNavigate }) {
 
 // ── CALCULATORS REGISTRY ─────────────────────────────────────────────────────
 
-
+window.App = App;
